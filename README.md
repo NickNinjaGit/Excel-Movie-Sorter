@@ -11,8 +11,8 @@
 
 
 
-<a href="https://www.npmjs.com/package/exceljs/v/0.2.16#reading-xlsx">(Documentação do ExcelJS)</a> 
+<a href="https://www.npmjs.com/package/exceljs/v/0.2.16#reading-xlsx">Documentação do ExcelJS</a> 
 <br>
-<a href="https://builtin.com/software-engineering-perspectives/exceljs">(E um resumo das principais funções da lib)</a>:
+<a href="https://builtin.com/software-engineering-perspectives/exceljs">Um resumo das principais funções da lib</a>
 
 
