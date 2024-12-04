@@ -1,6 +1,6 @@
 <h1>Excel Movie Sorter</h1>
 
-<h2>Um pequeno projeto de um sorteador de filmes baseado em um modelo de planilha do Excel. Feito em <b>NodeJS</b></h2>
+<h2>Um pequeno projeto de um sorteador de filmes baseado em um modelo de planilha do Excel, feito em <b>NodeJS</b></h2>
 
 ![alt text](https://github.com/NickNinjaGit/Excel-Movie-Sorter/blob/master/image.png)
 
@@ -11,8 +11,8 @@
 
 
 
-(<a href="https://www.npmjs.com/package/exceljs/v/0.2.16#reading-xlsx">Documentação do ExcelJS)</a> 
+<a href="https://www.npmjs.com/package/exceljs/v/0.2.16#reading-xlsx">(Documentação do ExcelJS)</a> 
 <br>
-(<a href="https://builtin.com/software-engineering-perspectives/exceljs">E um resumo das principais funções da lib</a>):
+<a href="https://builtin.com/software-engineering-perspectives/exceljs">(E um resumo das principais funções da lib)</a>:
 
 
